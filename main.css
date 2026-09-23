@@ -128,7 +128,7 @@ footer {
     color: #1e3a8a;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
     h1 {
         font-size: 25px;
     }
