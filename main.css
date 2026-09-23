@@ -152,10 +152,9 @@ footer {
     }
 
     .store-item {
-        height: 250px;
-        padding: 5px;
+    height: 300px;
+    padding: 5px;
     }
-
     .store-item span {
         font-size: 12px;
         margin: 5px 5px 0 0;
