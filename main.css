@@ -150,6 +150,7 @@ footer {
     main {
         gap: 8px;
         padding: 8px;
+        align-items: start;
     }
     .store-item {
     padding: 5px;
