@@ -156,10 +156,11 @@ footer {
     padding: 5px;
     }
     .store-item span {
-        font-size: 12px;
-        margin: 5px 5px 0 0;
+    display: inline-flex;
+    font-weight: bold;
+    margin: 10px 5px 0 0;
+    font-size: 14px;
     }
-
     .store-item p:first-of-type {
         font-size: 14px;
         margin: 8px 0 4px;
